@@ -1,0 +1,190 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 820M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1999 MB
+    Driver:   21.21.13.7667
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.055 seconds
+Platform assembly: C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.994900 ms
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 820M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1999 MB
+    Driver:   21.21.13.7667
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.059 seconds
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 39c4 -> priority: 1 
+  Thread -> id: 5e34 -> priority: 1 
+Platform assembly: C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\84358\Desktop\Dragonboy_vn_v202\Dragonboy_vn_v202_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to create a material from string - this is no longer supported.
+ 
+(Filename:  Line: 1086)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: dragon4.teamobi.com
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14445
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 2.674100 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5d7c -> priority: 1 
+  Thread -> id: 5530 -> priority: 1 
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to create a material from string - this is no longer supported.
+ 
+(Filename:  Line: 1086)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: dragon4.teamobi.com
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14445
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 155 unused Assets to reduce memory usage. Loaded Objects now: 693.
+Total: 4.334100 ms (FindLiveObjects: 0.076500 ms CreateObjectMapping: 0.060700 ms MarkObjects: 3.919200 ms  DeleteObjects: 0.276300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 943.
+Total: 8.967000 ms (FindLiveObjects: 0.068800 ms CreateObjectMapping: 0.052500 ms MarkObjects: 8.739699 ms  DeleteObjects: 0.105000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 941.
+Total: 3.415000 ms (FindLiveObjects: 0.098500 ms CreateObjectMapping: 0.096300 ms MarkObjects: 3.212700 ms  DeleteObjects: 0.006100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 117 unused Assets to reduce memory usage. Loaded Objects now: 775.
+Total: 4.007600 ms (FindLiveObjects: 0.182900 ms CreateObjectMapping: 0.349800 ms MarkObjects: 3.319500 ms  DeleteObjects: 0.154300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 801.
+Total: 4.572800 ms (FindLiveObjects: 0.066800 ms CreateObjectMapping: 0.059500 ms MarkObjects: 4.417400 ms  DeleteObjects: 0.027900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1138.
+Total: 4.301500 ms (FindLiveObjects: 0.107100 ms CreateObjectMapping: 0.115300 ms MarkObjects: 4.011100 ms  DeleteObjects: 0.067000 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 155 unused Assets to reduce memory usage. Loaded Objects now: 695.
+Total: 4.137900 ms (FindLiveObjects: 0.164400 ms CreateObjectMapping: 0.097800 ms MarkObjects: 3.717300 ms  DeleteObjects: 0.156600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 972.
+Total: 4.447600 ms (FindLiveObjects: 0.124200 ms CreateObjectMapping: 0.095200 ms MarkObjects: 4.200100 ms  DeleteObjects: 0.027200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 974.
+Total: 3.093300 ms (FindLiveObjects: 0.075200 ms CreateObjectMapping: 0.056500 ms MarkObjects: 2.954300 ms  DeleteObjects: 0.006500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 815.
+Total: 4.054700 ms (FindLiveObjects: 0.095500 ms CreateObjectMapping: 0.073800 ms MarkObjects: 3.724900 ms  DeleteObjects: 0.159000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1159.
+Total: 8.111899 ms (FindLiveObjects: 0.100400 ms CreateObjectMapping: 0.093100 ms MarkObjects: 7.894000 ms  DeleteObjects: 0.023700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1159.
+Total: 4.316300 ms (FindLiveObjects: 0.098400 ms CreateObjectMapping: 0.089900 ms MarkObjects: 4.101300 ms  DeleteObjects: 0.025600 ms)
+
+APP QUIT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+  at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+  at System.IO.Stream.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadSByte () [0x00000] in <filename unknown>:0 
+  at Session_ME+MessageCollector.readMessage () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+APP QUIT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+  at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+  at System.IO.Stream.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadSByte () [0x00000] in <filename unknown>:0 
+  at Session_ME+MessageCollector.readMessage () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
